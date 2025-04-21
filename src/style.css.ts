@@ -83,6 +83,7 @@ const newAdd = style({
   borderRadius: "24px",
   display: "flex",
   alignItems: "center",
+  justifyContent: "center",
   gap: "1rem",
   textAlign: "left",
 });
