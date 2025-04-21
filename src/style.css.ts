@@ -79,11 +79,10 @@ const productText = style({
 const newAdd = style({
   padding: "12px 16px",
   backgroundColor: "#FFFFFF",
-  margin: "0 auto 0 auto",
+  margin: "0 16px 0 16px",
   borderRadius: "24px",
   display: "flex",
   alignItems: "center",
-  width: "fit-content",
   gap: "1rem",
   textAlign: "left",
 });
